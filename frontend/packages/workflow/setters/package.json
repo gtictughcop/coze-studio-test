@@ -21,7 +21,7 @@
     "@flowgram-adapter/free-layout-editor": "workspace:*",
     "@tanstack/react-query": "~5.13.4",
     "classnames": "^2.3.2",
-    "nanoid": "^4.0.2"
+    "nanoid": "^5.1.9"
   },
   "devDependencies": {
     "@coze-arch/bot-typings": "workspace:*",
@@ -58,11 +58,11 @@
     "styled-components": ">= 2",
     "stylelint": "^15.11.0",
     "typescript": "~5.8.2",
-    "vite": "^4.3.9",
+    "vite": "^8.0.8",
     "vite-plugin-svgr": "~3.3.0",
     "vite-tsconfig-paths": "^4.2.1",
     "vitest": "~3.0.5",
-    "webpack": "~5.91.0"
+    "webpack": "~5.106.2"
   },
   "peerDependencies": {
     "react": ">=18.2.0",
