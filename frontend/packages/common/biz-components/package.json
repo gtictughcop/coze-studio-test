@@ -58,9 +58,9 @@
     "ahooks": "^3.7.8",
     "axios": "^1.4.0",
     "classnames": "^2.3.2",
-    "dompurify": "3.0.8",
+    "dompurify": "3.4.0",
     "lodash-es": "^4.17.21",
-    "nanoid": "^4.0.2",
+    "nanoid": "^5.1.9",
     "react-joyride": "^2.8.2",
     "zod": "3.22.4"
   },
@@ -91,9 +91,9 @@
     "styled-components": ">= 2",
     "stylelint": "^15.11.0",
     "typescript": "~5.8.2",
-    "vite": "^4.3.9",
+    "vite": "^8.0.9",
     "vitest": "~3.0.5",
-    "webpack": "~5.91.0"
+    "webpack": "~5.106.2"
   },
   "peerDependencies": {
     "react": ">=18.2.0",

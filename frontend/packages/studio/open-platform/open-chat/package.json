@@ -63,7 +63,7 @@
     "eventemitter3": "^5.0.1",
     "immer": "^10.0.3",
     "lodash-es": "^4.17.21",
-    "nanoid": "^4.0.2",
+    "nanoid": "^5.1.9",
     "react": "~18.2.0",
     "react-device-detect": "2.2.3",
     "react-dom": "~18.2.0",
@@ -97,7 +97,7 @@
     "ts-node": "^10.9.1",
     "typescript": "~5.8.2",
     "vitest": "~3.0.5",
-    "webpack": "~5.91.0"
+    "webpack": "~5.106.2"
   },
   "// deps": "debug@^4.3.4 为脚本自动补齐，请勿改动",
   "botPublishConfig": {
