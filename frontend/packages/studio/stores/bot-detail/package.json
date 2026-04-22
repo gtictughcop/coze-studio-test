@@ -102,7 +102,7 @@
     "deep-diff": "~1.0.2",
     "immer": "^10.0.3",
     "lodash-es": "^4.17.21",
-    "nanoid": "^4.0.2",
+    "nanoid": "^5.1.9",
     "zustand": "^4.4.7"
   },
   "devDependencies": {
