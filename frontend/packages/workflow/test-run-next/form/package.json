@@ -22,7 +22,7 @@
     "@flowgram-adapter/common": "workspace:*",
     "@flowgram-adapter/free-layout-editor": "workspace:*",
     "ahooks": "^3.7.8",
-    "ajv": "~8.12.0",
+    "ajv": "~8.20.0",
     "bignumber.js": "~9.0.0",
     "clsx": "^1.2.1",
     "lodash-es": "^4.17.21",

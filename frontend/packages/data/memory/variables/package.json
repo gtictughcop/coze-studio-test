@@ -48,10 +48,10 @@
     "ahooks": "^3.7.8",
     "classnames": "^2.3.2",
     "dayjs": "^1.11.7",
-    "dompurify": "3.0.8",
+    "dompurify": "3.4.0",
     "immer": "^10.0.3",
     "lodash-es": "^4.17.21",
-    "nanoid": "^4.0.2",
+    "nanoid": "^5.1.11",
     "react-router-dom": "^6.22.0",
     "zustand": "^4.4.7"
   },
