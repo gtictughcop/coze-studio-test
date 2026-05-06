@@ -55,7 +55,7 @@
     "ts-node": "^10.9.1",
     "typescript": "~5.8.2",
     "vitest": "~3.0.5",
-    "webpack": "~5.91.0"
+    "webpack": "~5.106.2"
   },
   "// deps": "debug@^4.3.4 为脚本自动补齐，请勿改动",
   "botPublishConfig": {
